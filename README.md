@@ -1,288 +1,134 @@
 <div align="center">
 
-# 👋 Hi there, I'm Raghav Rallan
+# Raghav Rallan
 
-### 🚀 Full-Stack Developer | AI Enthusiast | Open Source Contributor
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=3DDC97&center=true&vCenter=true&width=680&lines=DevOps+Engineer;Site+Reliability+Engineer;Cloud+%26+Platform+Engineer;Full+Stack+Systems+Engineer" alt="DevOps Engineer, Site Reliability Engineer, Cloud and Platform Engineer, Full Stack Systems Engineer" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+the+future+with+AI;Crafting+elegant+solutions;Always+learning%2C+always+coding" alt="Typing SVG" />
+**I build and operate reliable, scalable, and observable cloud systems<br/>powering modern applications and AI platforms.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raghavrallan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://raghavrallan.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/raghavrallan)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:raghav@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-raghavrallan.github.io-3DDC97?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://raghavrallan.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/raghavrallan/)
+[![Email](https://img.shields.io/badge/Email-raghavrallan80@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:raghavrallan80@gmail.com)
+
+![Location](https://img.shields.io/badge/Mohali,_Punjab-IST_(UTC+05:30)-8B949E?style=flat-square&labelColor=0D1117)
+![Status](https://img.shields.io/badge/status-open_to_Senior_DevOps_/_SRE_/_Platform_roles-3DDC97?style=flat-square&labelColor=0D1117)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## About
 
-```typescript
-const raghav = {
-    location: "Earth 🌍",
-    currentRole: "Full-Stack Developer",
-    currentFocus: ["AI/ML", "Web3", "Cloud Architecture"],
-    learning: ["Next.js 14", "Rust", "Kubernetes"],
-    funFact: "I debug with console.log() and I'm not ashamed 😄",
+Four years across **AWS, Azure and GCP** — designing Kubernetes platforms, Terraform-driven
+infrastructure, GitOps delivery pipelines, and the observability that keeps them honest.
+From request ingress to cloud substrate, I own the whole path.
 
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue", "Svelte"],
-            css: ["Tailwind", "Sass", "Styled-Components"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "Nest.js"],
-            python: ["FastAPI", "Django", "Flask"],
-            misc: ["GraphQL", "REST APIs", "WebSockets"]
-        },
-        databases: ["PostgreSQL", "MongoDB", "Redis", "Supabase"],
-        devOps: ["Docker", "Kubernetes", "AWS", "Azure", "CI/CD"],
-        ai: ["OpenAI API", "LangChain", "Hugging Face", "TensorFlow"]
-    },
+Currently **Associate Consultant, DevOps & Cloud Engineering at Mooglabs**, where I've led 15+
+cloud modernization and Kubernetes engagements. Previously **POD Lead for IaC/R&D at Turing**,
+building multi-cloud infrastructure automation and autonomous engineering agents.
 
-    currentProject: "Building InterviewAce 🎯 - AI-powered interview assistant"
-};
+```yaml
+operating:      AWS · Azure · GCP
+orchestrating:  Kubernetes (AKS / EKS / GKE) · Helm · Kustomize
+provisioning:   Terraform · CDKTF · Pulumi · AWS CDK · CloudFormation · Bicep
+shipping:       GitHub Actions · Jenkins · Azure DevOps · GitOps
+observing:      Prometheus · Grafana · CloudWatch · Azure Monitor · SLIs/SLOs
+building:       Python · TypeScript · Go · FastAPI · Next.js · React
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Signals
 
-<div align="center">
+Numbers from delivered work, not estimates.
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-### AI & ML
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</div>
+| Metric | Result | How |
+| :--- | :--- | :--- |
+| Cluster availability | **99.99%** | HA + autoscaling across AKS / EKS / GKE |
+| Provisioning time | **−65%** | Reusable, modular IaC |
+| Deployment runtime | **−28%** | Parallelised CI jobs |
+| Build + test time | **−40%** | Optimised pipeline stages |
+| Deploy success rate | **75% → 92%** | End-to-end test suite + linting gates |
+| Platform engagements | **15+** | Cloud modernization & Kubernetes programmes led |
 
 ---
 
-## 🚀 Featured Projects
+## Systems
 
-<div align="center">
+Production-minded projects — each one built to be operated, not just demoed.
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 [InterviewAce](https://github.com/raghavrallan/InterviewAce)
-![Stars](https://img.shields.io/github/stars/raghavrallan/InterviewAce?style=social)
-
-**AI-Powered Interview Assistant**
-
-🔹 Real-time transcription & AI answers
-🔹 Practice mode with speech analysis
-🔹 STAR method framework guide
-🔹 Built with Electron, React, Azure OpenAI
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 📊 [Project Name 2]
-![Stars](https://img.shields.io/github/stars/raghavrallan/project?style=social)
-
-**Brief Project Description**
-
-🔹 Feature 1
-🔹 Feature 2
-🔹 Feature 3
-🔹 Tech stack highlight
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 [Project Name 3]
-![Stars](https://img.shields.io/github/stars/raghavrallan/project?style=social)
-
-**Brief Project Description**
-
-🔹 Feature 1
-🔹 Feature 2
-🔹 Feature 3
-🔹 Tech stack highlight
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🌐 [Project Name 4]
-![Stars](https://img.shields.io/github/stars/raghavrallan/project?style=social)
-
-**Brief Project Description**
-
-🔹 Feature 1
-🔹 Feature 2
-🔹 Feature 3
-🔹 Tech stack highlight
-
-![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
+| System | What it is | Stack |
+| :--- | :--- | :--- |
+| **[infralens](https://github.com/raghavrallan/infralens)** | LLM-powered DevSecOps platform. Chat skills plus an autonomous intelligence layer, with every action gated by *action class × blast radius* before it touches infrastructure. | `Python` `FastAPI` `Next.js` `Azure OpenAI` `PostgreSQL` `Redis` |
+| **[sre-copilot](https://github.com/raghavrallan/sre-copilot)** | Multi-tenant observability and incident intelligence platform — root cause analysis across 14 FastAPI microservices. | `Python` `FastAPI` `React` `Kubernetes` `Azure OpenAI` |
+| **[azure-terraform-infrastructure](https://github.com/raghavrallan/azure-terraform-infrastructure)** | Enterprise Azure IaC — layered architecture covering networking, storage, database and backend services, with automated CI/CD. | `Terraform` `HCL` `Azure` `API Management` |
+| **[meetingmind](https://github.com/raghavrallan/meetingmind)** | Meeting intelligence platform — real-time transcription, task extraction and semantic search over meeting history. | `TypeScript` `FastAPI` `pgvector` `Claude` `Celery` |
+| **[api-usage-tracker](https://github.com/raghavrallan/api-usage-tracker)** | Multi-tenant API usage, token and billing tracker for OpenAI, Anthropic and Google. | `TypeScript` `FastAPI` `React` |
+| **[InterviewAce](https://github.com/raghavrallan/InterviewAce)** | Desktop interview assistant with dual audio capture, real-time transcription and answer generation. | `Electron` `React` `Express` `Azure OpenAI` |
+| **[azure-private-endpoint-demo](https://github.com/raghavrallan/azure-private-endpoint-demo)** | Private-endpoint reference architecture — Container Apps, Cosmos DB and Storage with no public exposure. | `Terraform` `Azure` `Python` |
+| **[raghavrallan.github.io](https://github.com/raghavrallan/raghavrallan.github.io)** | My portfolio, built as a live systems dashboard rather than a resume page. | `Next.js` `TypeScript` `Tailwind` |
 
 ---
 
-## 📊 GitHub Stats
+## Stack
 
-<div align="center">
+**Cloud & Infrastructure**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghavrallan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker&theme=dark)](https://skillicons.dev)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavrallan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+**Delivery & Observability**
 
-</div>
+[![Delivery](https://skillicons.dev/icons?i=githubactions,jenkins,grafana,prometheus,nginx,linux,bash,git&theme=dark)](https://skillicons.dev)
 
-<div align="center">
+**Application & Data**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavrallan&theme=tokyonight&hide_border=true&background=0d1117" />
-
-</div>
+[![Application](https://skillicons.dev/icons?i=python,typescript,go,fastapi,nextjs,react,nodejs,postgres,redis&theme=dark)](https://skillicons.dev)
 
 ---
 
-## 🏆 GitHub Trophies
+## Experience
 
-<div align="center">
+**Mooglabs** — Associate Consultant, DevOps & Cloud Engineering · *Mar 2023 – Present*
+Led 15+ cloud modernization and Kubernetes platform engagements. Architected AKS/EKS/GKE clusters
+with autoscaling, networking, security and observability. Guided migrations from VM-centric systems
+into cloud-native microservices.
 
-![trophy](https://github-profile-trophy.vercel.app/?username=raghavrallan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+**Turing** — POD Lead, IaC / R&D Engineer · *Jul 2025 – May 2026*
+Designed production-grade IaC across three clouds using Terraform, CDK, CDKTF, Pulumi and
+CloudFormation. Architected end-to-end infrastructure validation pipelines and established IaC
+design standards. Built a RAG + tool-using autonomous coding agent.
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Raghav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raghavrallan&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/raghavrallan)
-
-</div>
+**Seasia Infotech** — Trainee, DevOps & Cloud Engineering · *Sep 2022 – Mar 2023*
+Built foundational Terraform, Docker, Kubernetes and Python automation. Cut build and test time by
+40% and raised deployment success rate from 75% to 92%.
 
 ---
 
-## 💻 Recent Activity
+## How I think about systems
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+> Reliability is a feature, and it is designed in — not added after an incident.
 
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎯 Current Goals (2025)
-
-- 🚀 Build 5 production-ready AI applications
-- 📚 Master Rust and contribute to open-source Rust projects
-- 🌟 Reach 1000 GitHub stars across all repositories
-- ✍️ Write 24 technical blog posts (2 per month)
-- 🎓 Obtain AWS Solutions Architect certification
-- 🤝 Mentor 10 aspiring developers
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-💼 Looking for collaboration opportunities? Let's build something amazing together!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raghavrallan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavrallan)
-[![Twitter](https://img.shields.io/badge/Twitter-@raghavrallan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/raghavrallan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-raghavrallan.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raghavrallan.dev)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghav@example.com)
-
-### 💬 Ask me about: JavaScript, React, Node.js, AI/ML, System Design
-
-### ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes while debugging code! 🧩
-
-</div>
+- **Measure before you optimise.** SLIs and SLOs first; error budgets decide when to ship versus when to stabilise.
+- **Automate the repeatable.** If it's done twice by hand, it belongs in a pipeline.
+- **Design for failure.** Every dependency is assumed to fail; the question is only how gracefully.
+- **Observability is not optional.** A system you cannot see into is a system you are guessing about.
 
 ---
 
 <div align="center">
 
-### 🎨 Profile Views
+### Activity
 
-![Profile Views](https://komarev.com/ghpvc/?username=raghavrallan&color=blueviolet&style=flat-square&label=Profile+Views)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raghavrallan&theme=react-dark&hide_border=true&bg_color=0D1117&color=3DDC97&line=3DDC97&point=FFFFFF&area=true" alt="Contribution activity graph" width="95%" />
 
-### ☕ Support My Work
-
-If you like my projects, consider buying me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raghavrallan)
+<img src="https://streak-stats.demolab.com?user=raghavrallan&theme=dark&hide_border=true&background=0D1117&ring=3DDC97&fire=3DDC97&currStreakLabel=3DDC97" alt="Contribution streak" />
 
 ---
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+**Open to Senior DevOps, SRE and Platform Engineering roles.**
 
-### 💻 "Code is like humor. When you have to explain it, it's bad." - Cory House
+If you're building something that has to stay up, let's talk.
+
+[![Portfolio](https://img.shields.io/badge/See_the_full_portfolio-3DDC97?style=for-the-badge&labelColor=0D1117)](https://raghavrallan.github.io)
 
 </div>
-
