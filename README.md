@@ -121,8 +121,6 @@ Built foundational Terraform, Docker, Kubernetes and Python automation. Cut buil
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghavrallan&theme=react-dark&hide_border=true&bg_color=0D1117&color=3DDC97&line=3DDC97&point=FFFFFF&area=true" alt="Contribution activity graph" width="95%" />
 
-<img src="https://streak-stats.demolab.com?user=raghavrallan&theme=dark&hide_border=true&background=0D1117&ring=3DDC97&fire=3DDC97&currStreakLabel=3DDC97" alt="Contribution streak" />
-
 ---
 
 **Open to Senior DevOps, SRE and Platform Engineering roles.**
